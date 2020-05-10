@@ -1,1 +1,3 @@
-Describe the plan to support the community
+Vote for CryptoHellas 
+Hellenic Cryptocurency Community
+

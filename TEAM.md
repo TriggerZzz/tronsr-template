@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [TriggerZzz]
+Role: [administrator]
 
 ## Team Member 1
 
